@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hatirlatici3</string>
+    <string name="edit_reminder_activity_label">Edit Reminder</string>
+    <string name="alarm_kapat">Alarmı Kapat</string>
+    <string name="tarih_seciniz">Tarih Seçiniz</string>
+    <string name="saat_seciniz">Saat Seçiniz</string>
+    <string name="zil_seciniz">Zil Sesi Seçiniz</string>
+    <string name="acıklama">Açıklama</string>
+    <string name="hatırlatıcı_baslıgı">Hatırlatıcı Başlığı</string>
+    <string name="hatırlatma">Hatırlatma Zamanı Seçiniz</string>
+    <string name="dakika_10">10 Dakika Önce</string>
+    <string name="dakika_20">20 Dakika Önce</string>
+    <string name="dakika_30">30 Dakika Önce</string>
+    <string name="dakika_40">40 Dakika Önce</string>
+    <string name="tamam">tamam</string>
+    <string name="ses_1">Ses 1</string>
+    <string name="ses_2">Ses 2</string>
+    <string name="ses_3">Ses 3</string>
+    <string name="ses_4">Ses 4</string>
+    <string name="yeni_gorev">Yeni Görev Ekle</string>
+    <string name="anasayfa_title">Görev Listesi</string>
+    <string name="emty_list">Görev listesi boş</string>
+    <string name="add_task">+ Görev Ekle</string>
+
+</resources>

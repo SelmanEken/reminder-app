@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+    <style name="TitleFieldTextStyle" parent="android:Widget.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#a3a3a3</item>
+    </style>
+    <style name="TitleFieldOptionTextStyle" parent="android:Widget.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="EmptyListText" parent="android:Widget.TextView">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#a3a3a3</item>
+    </style>
+</resources>
