@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/min_10"
+        android:title="@string/dakika_10" />
+    <item
+        android:id="@+id/min_20"
+        android:title="@string/dakika_20" />
+    <item
+        android:id="@+id/min_30"
+        android:title="@string/dakika_30" />
+    <item
+        android:id="@+id/min_40"
+        android:title="@string/dakika_40" />
+</menu>

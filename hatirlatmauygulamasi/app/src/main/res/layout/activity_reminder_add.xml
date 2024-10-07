@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include android:id="@+id/toolbar_app"
+        layout="@layout/toolbar_app"/>
+    <include android:id="@+id/layout_date_picker"
+        layout="@layout/layout_date"/>
+    <include android:id="@+id/layout_time_picker"
+        layout="@layout/layout_time_option"/>
+    <include android:id="@+id/layout_sound_menu"
+        layout="@layout/layout_sound_option"/>
+    <include android:id="@+id/editTextReminderTitle"
+        layout="@layout/layout_reminder_title"/>
+    <include android:id="@+id/editTextReminderDescription"
+        layout="@layout/layout_description"/>
+    <include android:id="@+id/layout_reminder"
+        layout="@layout/layout_reminder"/>
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54dp"
+        android:layout_gravity="center"
+        android:enabled="false"
+        android:text="Kaydet" />
+</LinearLayout>

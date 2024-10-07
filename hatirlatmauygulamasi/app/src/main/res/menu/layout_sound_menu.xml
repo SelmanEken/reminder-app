@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sound_first"
+        android:title="@string/ses_1" />
+    <item
+        android:id="@+id/sound_second"
+        android:title="@string/ses_2" />
+    <item
+        android:id="@+id/sound_third"
+        android:title="@string/ses_3" />
+    <item
+        android:id="@+id/sound_fourth"
+        android:title="@string/ses_4" />
+</menu>
